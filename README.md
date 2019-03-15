@@ -10,3 +10,7 @@ optimization algorithms
 - gradient descent notebook
 - gradient descent script (with animation)
 
+### Particle Swarm
+- live script
+- jupyter notebook [WIP]
+- pdf
